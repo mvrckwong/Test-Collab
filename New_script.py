@@ -8,3 +8,8 @@ def main() -> None:
         
 
 main()
+
+# New function created in branch
+def new_function():
+    print("New function")
+new_function()
